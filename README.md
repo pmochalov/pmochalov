@@ -4,11 +4,12 @@
 
 ## О себе
 
-Я занимаюсь веб-разработкой и машинным обучением. Мои основные навыки:
+Мои основные навыки:
 
--   Языки: Python, JavaScript
--   Фреймворки: React, Django
--   Инструменты: Git, Docker
+-   HTML, CSS, SCSS, BEM, Bootstrap, Tailwind;
+-   JavaScript, TypeScript, React, Redux Toolkit, React Router, Axios;
+-   npm, git, Node.js, express;
+-   Figma, Adobe Illustrator,
 
 ## Контакты
 
