@@ -1,8 +1,8 @@
-# Привет! 👋
+# Привет!
 
 Меня зовут Павел Мочалов, и я фронтенд-разработчик.
 
-## О себе
+## О себе ✅
 
 Мои основные навыки:
 
@@ -11,31 +11,32 @@
 -   npm, git, Node.js, express;
 -   Figma, Adobe Illustrator,
 
-## Контакты
+## Контакты ✉️
 
--   📧 Email: [pavel@mchlv.ru](mailto:pavel@mchlv.ru)
+-   Телеграм **[@pmtlgrm](https://t.me/pmtlgrm)**
+-   Почта: [pavel@mchlv.ru](mailto:pavel@mchlv.ru)
+-   Сайт: [mchlv.ru](https://mchlv.ru)
 
-## Проекты
+## Проекты 🗂️
 
--   **[frontend-books-shop](https://github.com/pmochalov/frontend-books-shop)**: Книжный магазин для фронтендеров.
--   **[film-library](https://github.com/pmochalov/film-library)**: «Фильмотека» - сервис по поиску фильмов.
--   **[rss-reader](https://github.com/pmochalov/rss-reader)**: Rss-ридер
--   **[transport-schedule-table](https://github.com/pmochalov/transport-schedule-table)**: Табло вокзалов на основе данных API Яндекс.
--   **[15ki](https://github.com/pmochalov/15ki)**: Игра «Пятнашки» на JavaScript.
--   **[paroller](https://github.com/pmochalov/paroller)**: Генератор паролей на JavaScript.
--   **[weather-react](https://github.com/pmochalov/weather-react)**: Сайт погоды.
--   **[kanban-board](https://github.com/pmochalov/kanban-board)**: Канбан-доска.
--   **[sokr](https://github.com/pmochalov/sokr)**: Сокращатель ссылок на React.
--   **[random-users-datalist](https://github.com/pmochalov/random-users-datalist)**: Список случайных пользователей.
--   **[currency-converter](https://github.com/pmochalov/currency-converter)**: Конвертер валют на React.
--   **[random-color](https://github.com/pmochalov/random-color)**: Генератор случайного шестнадцатиричного цвета на JavaScript.
--   **[pcalendar](https://github.com/pmochalov/pcalendar)**: Класс календаря на JavaScript.
--   **[anketa-react](https://github.com/pmochalov/anketa-react)**: Анкета пошаговая на React.
--   **[phone-keyboard](https://github.com/pmochalov/phone-keyboard)**: Клавиатура набора номера телефона на React.js
--   **[pcard](https://github.com/pmochalov/pcard)**: Ввод данных карты для оплаты.
+-   «ИУЛкер» — конструктор документов / **[www](https://iulker.ru/constructor/)**
+-   «Фильмотека» - сервис по поиску фильмов / **[www](https://mchlv.ru/projects/filmoteka/)** / **[git](https://github.com/pmochalov/film-library)**
+-   Табло вокзалов на основе данных API Яндекс / **[www](https://mchlv.ru/projects/rasp/)** / **[git](https://github.com/pmochalov/transport-schedule-table)**
+-   Книжный магазин / **[www](https://mchlv.ru/projects/booksshop/)** / **[git](https://github.com/pmochalov/frontend-books-shop)**
+-   Rss-ридер / **[www](https://mchlv.ru/projects/rss-reader/)** / **[git](https://github.com/pmochalov/rss-reader)**
+-   «Пятнашки», игра / **[www](https://mchlv.ru/projects/15ki/)** / **[git](https://github.com/pmochalov/15ki)**
+-   Генератор паролей «Пароллер» / **[www](https://mchlv.ru/projects/paroller)** / **[git](https://github.com/pmochalov/paroller)**
+-   Сайт погоды / **[www](https://mchlv.ru/pogoda/)** / **[git](https://github.com/pmochalov/weather-react)**
+-   Канбан-доска / **[www](https://mchlv.ru/projects/kanban/)** / **[git](https://github.com/pmochalov/kanban-board)**
+-   Сокращатель ссылок / **[www](https://mchlv.ru/projects/sokr/)** / **[git](https://github.com/pmochalov/sokr)**
+-   Список случайных пользователей / **[git](https://github.com/pmochalov/random-users-datalist)**
+-   Конвертер валют / **[www](https://mchlv.ru/projects/currency-converter/)** / **[git](https://github.com/pmochalov/currency-converter)**
+-   Генератор случайного шестнадцатиричного цвета / **[www](https://mchlv.ru/projects/random-color/)** / **[git](https://github.com/pmochalov/random-color)**
 
-## Статистика
+**⚡ [Все проекты](https://github.com/pmochalov?tab=repositories)** ⚡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmochalov&show_icons=true&theme=dark)
+## Статистика 📈
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmochalov&layout=compact&theme=dark)
+
+🔄
